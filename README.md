@@ -6,7 +6,7 @@ Cont bancar personal cu POS si card, controlate de un modul Arduino Nano. Placut
 <br><br>
 <center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-RFID/main/demo.jpeg" width="500px"></center>
 <br>
-<center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-RFID/main/circuit.png" width="200px"></center>
+<center><img src="https://raw.githubusercontent.com/PacoPakkun/Android-Things-RFID/main/circuit.png" width="500px"></center>
 
 <h2>Hardware Requirements</h2>
 <ul>
