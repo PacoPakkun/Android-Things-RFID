@@ -19,8 +19,8 @@ Cont bancar personal cu POS si card, controlate de un modul Arduino Nano. Placut
 
 <h2>Software Requirements</h2>
 <ul>
-    <li>Script Arduino - </li>
-    <li>Aplicatie Android - </li>
+    <li>Script Arduino - https://github.com/PacoPakkun/Android-Things-RFID/blob/main/sketch.ino</li>
+    <li>Aplicatie Android - https://github.com/PacoPakkun/Android-Things-RFID/tree/main/RFID</li>
 </ul>
 
 <h2>Setup and Build</h2>
